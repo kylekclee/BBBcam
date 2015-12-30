@@ -1,0 +1,26 @@
+Remove Pin=P1-11 From Net=OE_SHIFTERS
+Remove Pin=P1-12 From Net=PWR_EN3.3
+Remove Pin=P1-20 From Net=LINE_VALID3.3
+Remove Pin=P1-21 From Net=FRAME_VALID3.3
+Remove Pin=P1-27 From Net=D0
+Remove Pin=P1-29 From Net=D1
+Remove Pin=P1-39 From Net=D8
+Remove Pin=P1-40 From Net=D9
+Remove Pin=P1-41 From Net=D6
+Remove Pin=P1-42 From Net=D7
+Remove Pin=P1-43 From Net=D4
+Remove Pin=P1-44 From Net=D5
+Remove Pin=P1-45 From Net=D2
+Remove Pin=P1-46 From Net=D3
+Change Pin Designator/Name:  Old Designator=U6-29 Old Name=2A6 New Designator =1A4 New Name=43
+Change Pin Designator/Name:  Old Designator=U6-30 Old Name=2A5 New Designator =1A3 New Name=44
+Change Pin Designator/Name:  Old Designator=U6-32 Old Name=2A4 New Designator =2A6 New Name=29
+Change Pin Designator/Name:  Old Designator=U6-33 Old Name=2A3 New Designator =2A5 New Name=30
+Change Pin Designator/Name:  Old Designator=U6-35 Old Name=2A2 New Designator =2A4 New Name=32
+Change Pin Designator/Name:  Old Designator=U6-36 Old Name=2A1 New Designator =2A3 New Name=33
+Change Pin Designator/Name:  Old Designator=U6-37 Old Name=1A8 New Designator =2A2 New Name=35
+Change Pin Designator/Name:  Old Designator=U6-38 Old Name=1A7 New Designator =2A1 New Name=36
+Change Pin Designator/Name:  Old Designator=U6-40 Old Name=1A6 New Designator =1A8 New Name=37
+Change Pin Designator/Name:  Old Designator=U6-41 Old Name=1A5 New Designator =1A7 New Name=38
+Change Pin Designator/Name:  Old Designator=U6-43 Old Name=1A4 New Designator =1A6 New Name=40
+Change Pin Designator/Name:  Old Designator=U6-44 Old Name=1A3 New Designator =1A5 New Name=41

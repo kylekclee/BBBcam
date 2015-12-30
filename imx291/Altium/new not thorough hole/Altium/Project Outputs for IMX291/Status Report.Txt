@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IMX291.PrjPcb]
+   Generated File[IMX291.TXT]
+   Generated File[IMX291.LDP]
+   Generated File[IMX291.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:40:28 PM On 12/3/2015
