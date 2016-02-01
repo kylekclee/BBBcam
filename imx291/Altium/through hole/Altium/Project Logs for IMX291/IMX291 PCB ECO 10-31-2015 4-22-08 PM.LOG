@@ -1,8 +1,0 @@
-Change Component Footprint: Designator=C37 Old Footprint=0402 New Footprint=0603
-Change Component Footprint: Designator=C38 Old Footprint=0402 New Footprint=0603
-Change Component Footprint: Designator=C39 Old Footprint=0402 New Footprint=0603
-Change Component Footprint: Designator=C40 Old Footprint=0402 New Footprint=0603
-Added Component: Designator=C41(0402)
-Added Pin To Net: NetName=GND Pin=C41-1
-Added Pin To Net: NetName=3.3V Pin=C41-2
-Added Member To Class: ClassName=IMX291 Member=Component C41 1uF

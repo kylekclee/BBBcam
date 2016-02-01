@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=D1B Pin=U6-20
-Removed Pin From Net: NetName=D1 Pin=U6-29
-Removed Pin From Net: NetName=D10 Pin=U6-33
-Added Pin To Net: NetName=D1B Pin=U6-16
-Added Pin To Net: NetName=D10 Pin=U6-29
-Added Pin To Net: NetName=D1 Pin=U6-33
-Added Pin To Net: NetName=D10G Pin=U2-67
-Added Pin To Net: NetName=D10G Pin=U6-20
-Added Net: Name=D10G
