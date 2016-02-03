@@ -1,9 +1,10 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [IMX291.PrjPcb]
+Output: PCAD Netlist
+Type  : PCADNetlist
+From  : Project [IMX291.PrjPcb]
+   Generated File[IMX291.NET]
 
 
-Files Generated   : 0
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:20:04 PM On 12/4/2015
+Finished Output Generation At 5:36:41 AM On 2/3/2016
