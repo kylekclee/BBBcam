@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: IMX291.GBR   2/4/2016  1:32:25 AM
+Gerber File Extension Report For: IMX291.GBR   12/4/2015  7:34:40 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,8 +7,6 @@ Gerber File Extension Report For: IMX291.GBR   2/4/2016  1:32:25 AM
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
-.G1                 Signal Layer 1                          
-.G2                 Signal Layer 2                          
 .GBL                Bottom Layer                            
 .GTO                Top Overlay                             
 .GTP                Top Paste                               

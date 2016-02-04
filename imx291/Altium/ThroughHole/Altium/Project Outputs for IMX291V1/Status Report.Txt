@@ -1,0 +1,10 @@
+Output: PCAD Netlist
+Type  : PCADNetlist
+From  : Project [IMX291.PrjPcb]
+   Generated File[IMX291.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:36:41 AM On 2/3/2016

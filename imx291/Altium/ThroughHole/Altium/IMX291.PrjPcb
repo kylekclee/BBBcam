@@ -113,55 +113,67 @@ DocumentPath=Project Outputs for IMX291\IMX291.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for IMX291\IMX291.GBL
+DocumentPath=Project Outputs for IMX291\IMX291.G1
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for IMX291\IMX291.GBO
+DocumentPath=Project Outputs for IMX291\IMX291.G2
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for IMX291\IMX291.GBP
+DocumentPath=Project Outputs for IMX291\IMX291.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for IMX291\IMX291.GBS
+DocumentPath=Project Outputs for IMX291\IMX291.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for IMX291\IMX291.GKO
+DocumentPath=Project Outputs for IMX291\IMX291.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for IMX291\IMX291.GTL
+DocumentPath=Project Outputs for IMX291\IMX291.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for IMX291\IMX291.GTO
+DocumentPath=Project Outputs for IMX291\IMX291.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for IMX291\IMX291.GTP
+DocumentPath=Project Outputs for IMX291\IMX291.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for IMX291\IMX291.GTS
+DocumentPath=Project Outputs for IMX291\IMX291.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for IMX291\IMX291.LDP
+DocumentPath=Project Outputs for IMX291\IMX291.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for IMX291\IMX291.NET
+DocumentPath=Project Outputs for IMX291\IMX291.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for IMX291\IMX291.REP
+DocumentPath=Project Outputs for IMX291\IMX291.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
+DocumentPath=Project Outputs for IMX291\IMX291.NET
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for IMX291\IMX291.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
 DocumentPath=Project Outputs for IMX291\IMX291.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for IMX291\IMX291.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -435,7 +447,7 @@ OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
 Configuration12_Name1=OutputConfigurationParameter1
-Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FileComment= |FileComment= |FileSubject=Autodetect|FileSubject=Autodetect|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|GerberX2Support=False|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|MirrorX2.Set= |MirrorX2GerberClass=False|NewFileNamesFormat=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16973837~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlotX2.Set=gfkProfile,gfkNPTH,gfkPTH|PlotX2GerberClass=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FileComment= |FileComment= |FileSubject=Autodetect|FileSubject=Autodetect|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|GerberX2Support=False|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|MirrorX2.Set= |MirrorX2GerberClass=False|NewFileNamesFormat=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16973837~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlotX2.Set=gfkProfile,gfkNPTH,gfkPTH|PlotX2GerberClass=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
@@ -453,7 +465,7 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=Filter
 Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=1|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=1|FormWidth=1153|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=Designator=True|Comment=True|Footprint=True
 Configuration1_Name5=OutputConfigurationParameter1

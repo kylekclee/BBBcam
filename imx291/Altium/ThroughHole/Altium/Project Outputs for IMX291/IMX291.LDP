@@ -1,2 +1,2 @@
-Layer Pairs Export File for PCB: C:\Users\Kyle\Desktop\Boards\Boards\through hole\Altium\IMX291.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=imx291.txt|DrillLayers=gtl,gbl
+Layer Pairs Export File for PCB: C:\Users\Kyle\Documents\GitHub\Cam\BBBcam\imx291\Altium\ThroughHole\Altium\IMX291.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=imx291.txt|DrillLayers=gtl,g2,g3,gbl
